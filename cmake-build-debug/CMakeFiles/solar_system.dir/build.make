@@ -43,10 +43,10 @@ RM = /home/hugo/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/163.13906.23/bin/
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hugo/OOPD/solar_system
+CMAKE_SOURCE_DIR = /home/hugo/OOPD/solar-system
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hugo/OOPD/solar_system/cmake-build-debug
+CMAKE_BINARY_DIR = /home/hugo/OOPD/solar-system/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/solar_system.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/solar_system.dir/flags.make
 
 CMakeFiles/solar_system.dir/main.cpp.o: CMakeFiles/solar_system.dir/flags.make
 CMakeFiles/solar_system.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hugo/OOPD/solar_system/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/solar_system.dir/main.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/solar_system.dir/main.cpp.o -c /home/hugo/OOPD/solar_system/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hugo/OOPD/solar-system/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/solar_system.dir/main.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/solar_system.dir/main.cpp.o -c /home/hugo/OOPD/solar-system/main.cpp
 
 CMakeFiles/solar_system.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/solar_system.dir/main.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hugo/OOPD/solar_system/main.cpp > CMakeFiles/solar_system.dir/main.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hugo/OOPD/solar-system/main.cpp > CMakeFiles/solar_system.dir/main.cpp.i
 
 CMakeFiles/solar_system.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/solar_system.dir/main.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hugo/OOPD/solar_system/main.cpp -o CMakeFiles/solar_system.dir/main.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hugo/OOPD/solar-system/main.cpp -o CMakeFiles/solar_system.dir/main.cpp.s
 
 CMakeFiles/solar_system.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/solar_system.dir/main.cpp.o.provides.build: CMakeFiles/solar_system.d
 
 CMakeFiles/solar_system.dir/Window.cpp.o: CMakeFiles/solar_system.dir/flags.make
 CMakeFiles/solar_system.dir/Window.cpp.o: ../Window.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hugo/OOPD/solar_system/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/solar_system.dir/Window.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/solar_system.dir/Window.cpp.o -c /home/hugo/OOPD/solar_system/Window.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hugo/OOPD/solar-system/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/solar_system.dir/Window.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/solar_system.dir/Window.cpp.o -c /home/hugo/OOPD/solar-system/Window.cpp
 
 CMakeFiles/solar_system.dir/Window.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/solar_system.dir/Window.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hugo/OOPD/solar_system/Window.cpp > CMakeFiles/solar_system.dir/Window.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hugo/OOPD/solar-system/Window.cpp > CMakeFiles/solar_system.dir/Window.cpp.i
 
 CMakeFiles/solar_system.dir/Window.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/solar_system.dir/Window.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hugo/OOPD/solar_system/Window.cpp -o CMakeFiles/solar_system.dir/Window.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hugo/OOPD/solar-system/Window.cpp -o CMakeFiles/solar_system.dir/Window.cpp.s
 
 CMakeFiles/solar_system.dir/Window.cpp.o.requires:
 
@@ -117,7 +117,7 @@ solar_system: CMakeFiles/solar_system.dir/main.cpp.o
 solar_system: CMakeFiles/solar_system.dir/Window.cpp.o
 solar_system: CMakeFiles/solar_system.dir/build.make
 solar_system: CMakeFiles/solar_system.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hugo/OOPD/solar_system/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable solar_system"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hugo/OOPD/solar-system/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable solar_system"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/solar_system.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -135,6 +135,6 @@ CMakeFiles/solar_system.dir/clean:
 .PHONY : CMakeFiles/solar_system.dir/clean
 
 CMakeFiles/solar_system.dir/depend:
-	cd /home/hugo/OOPD/solar_system/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hugo/OOPD/solar_system /home/hugo/OOPD/solar_system /home/hugo/OOPD/solar_system/cmake-build-debug /home/hugo/OOPD/solar_system/cmake-build-debug /home/hugo/OOPD/solar_system/cmake-build-debug/CMakeFiles/solar_system.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/hugo/OOPD/solar-system/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hugo/OOPD/solar-system /home/hugo/OOPD/solar-system /home/hugo/OOPD/solar-system/cmake-build-debug /home/hugo/OOPD/solar-system/cmake-build-debug /home/hugo/OOPD/solar-system/cmake-build-debug/CMakeFiles/solar_system.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/solar_system.dir/depend
 

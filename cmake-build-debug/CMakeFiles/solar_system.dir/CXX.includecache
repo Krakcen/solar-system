@@ -6,21 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/hugo/OOPD/solar_system/Window.cpp
+/home/hugo/OOPD/solar-system/Window.cpp
 Window.h
-/home/hugo/OOPD/solar_system/Window.h
+/home/hugo/OOPD/solar-system/Window.h
 iostream
 -
 SDL.h
-/home/hugo/OOPD/solar_system/SDL.h
+/home/hugo/OOPD/solar-system/SDL.h
 
-/home/hugo/OOPD/solar_system/Window.h
+/home/hugo/OOPD/solar-system/Window.h
 SDL.h
-/home/hugo/OOPD/solar_system/SDL.h
+/home/hugo/OOPD/solar-system/SDL.h
 
-/home/hugo/OOPD/solar_system/main.cpp
+/home/hugo/OOPD/solar-system/main.cpp
 Window.h
-/home/hugo/OOPD/solar_system/Window.h
+/home/hugo/OOPD/solar-system/Window.h
 iostream
 -
 

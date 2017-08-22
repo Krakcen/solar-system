@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/hugo/OOPD/solar_system/cmake-build-debug"/>
+				<Option working_dir="/home/hugo/OOPD/solar-system/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/hugo/OOPD/solar_system/cmake-build-debug"/>
+				<Option working_dir="/home/hugo/OOPD/solar-system/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/hugo/OOPD/solar_system/cmake-build-debug"/>
+				<Option working_dir="/home/hugo/OOPD/solar-system/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="solar_system">
-				<Option output="/home/hugo/OOPD/solar_system/cmake-build-debug/solar_system" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/hugo/OOPD/solar_system/cmake-build-debug"/>
+				<Option output="/home/hugo/OOPD/solar-system/cmake-build-debug/solar_system" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hugo/OOPD/solar-system/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -55,15 +55,15 @@
 					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 solar_system"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 solar_system"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="solar_system/fast">
-				<Option output="/home/hugo/OOPD/solar_system/cmake-build-debug/solar_system" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/hugo/OOPD/solar_system/cmake-build-debug"/>
+				<Option output="/home/hugo/OOPD/solar-system/cmake-build-debug/solar_system" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hugo/OOPD/solar-system/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -79,23 +79,23 @@
 					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 solar_system/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 solar_system/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hugo/OOPD/solar-system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hugo/OOPD/solar_system/Window.cpp">
+		<Unit filename="/home/hugo/OOPD/solar-system/Window.cpp">
 			<Option target="solar_system"/>
 		</Unit>
-		<Unit filename="/home/hugo/OOPD/solar_system/Window.h">
+		<Unit filename="/home/hugo/OOPD/solar-system/Window.h">
 			<Option target="solar_system"/>
 		</Unit>
-		<Unit filename="/home/hugo/OOPD/solar_system/main.cpp">
+		<Unit filename="/home/hugo/OOPD/solar-system/main.cpp">
 			<Option target="solar_system"/>
 		</Unit>
-		<Unit filename="/home/hugo/OOPD/solar_system/CMakeLists.txt">
+		<Unit filename="/home/hugo/OOPD/solar-system/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
