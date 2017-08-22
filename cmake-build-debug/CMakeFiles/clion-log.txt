@@ -1,0 +1,4 @@
+/home/hugo/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/163.13906.23/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/hugo/OOPD/solar_system
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/hugo/OOPD/solar_system/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++0x -g   CMakeFiles/solar_system.dir/main.cpp.o CMakeFiles/solar_system.dir/Window.cpp.o  -o solar_system -lSDL2 
