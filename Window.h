@@ -16,6 +16,7 @@ private:
     SDL_Event event;
 public:
     int run();
+    int showMenu();
     int showBackgroundColorTick();
     Window();
     ~Window();
